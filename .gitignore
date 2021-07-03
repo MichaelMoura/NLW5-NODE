@@ -1,1 +1,2 @@
 node_modules/
+migrations/1625338733555-AlterUserAddPassword.ts
